@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "cluster0-dozkm.mongodb.net/api_books?retryWrites=true",
+    "port": 47052,
+    "url": "mongodb+srv://root:Hellen.3@cluster0-dozkm.mongodb.net/api_books?retryWrites=true",
+    "database": "api_books",
+    "password": "Hellen.3",
+    "name": "db",
+    "user": "root",
+    "connector": "mongodb"
+  }
+}
